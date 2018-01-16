@@ -1,0 +1,10 @@
+fanta:1
+sunkist:3
+pepsi:2
+coke:4
+sprite:1
+lemonade:6
+tea:8
+milk:2
+coffee:5
+milkshake:8

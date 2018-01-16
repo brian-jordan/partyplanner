@@ -1,0 +1,12 @@
+chips:3
+guacamole:4
+salsa:3
+pretzels:5
+cupcakes:6
+brownies:5
+chili:8
+pizza:10
+ribs:10
+cookies:4
+queso:6
+taquitos:12
